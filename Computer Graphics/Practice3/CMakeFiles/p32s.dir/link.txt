@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/p32s.dir/practice3_2_smooth.cpp.o  -o p32s -rdynamic -lGL -lGLU -lglut 

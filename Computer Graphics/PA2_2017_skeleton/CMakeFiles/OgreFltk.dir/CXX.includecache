@@ -1,0 +1,174 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/SimpleScene.cpp
+iostream
+-
+fstream
+-
+stdlib.h
+-
+math.h
+-
+sys/types.h
+-
+Windows.h
+-
+GL/gl.h
+-
+GL/glu.h
+-
+GLFW/glfw3.h
+-
+math/matrix4.h
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/matrix4.h
+math/vector3.h
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/vector3.h
+math/intersectionTest.h
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/intersectionTest.h
+WaveFrontOBJ.h
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/WaveFrontOBJ.h
+assert.h
+-
+
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/WaveFrontOBJ.cpp
+iostream
+-
+cstring
+-
+fstream
+-
+sys/types.h
+-
+Windows.h
+-
+GL/gl.h
+-
+GL/glu.h
+-
+WaveFrontOBJ.h
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/WaveFrontOBJ.h
+
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/WaveFrontOBJ.h
+vector
+-
+stdlib.h
+-
+math.h
+-
+
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/intersectionTest.cpp
+mathclass.h
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/mathclass.h
+intersectionTest.h
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/intersectionTest.h
+interval.h
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/interval.h
+
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/intersectionTest.h
+vector
+-
+math_macro.h
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/math_macro.h
+vector3.h
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/vector3.h
+
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/interval.cpp
+mathclass.h
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/mathclass.h
+interval.h
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/interval.h
+
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/interval.h
+math_macro.h
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/math_macro.h
+
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/math_macro.h
+
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/mathclass.h
+stdio.h
+-
+stdlib.h
+-
+memory.h
+-
+math.h
+-
+assert.h
+-
+limits
+-
+limits.h
+-
+float.h
+-
+quater.h
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/quater.h
+vector3.h
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/vector3.h
+matrix4.h
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/matrix4.h
+
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/matrix4.cpp
+mathclass.h
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/mathclass.h
+matrix4.h
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/matrix4.h
+math_macro.h
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/math_macro.h
+iostream
+-
+Windows.h
+-
+GL/gl.h
+-
+
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/matrix4.h
+iostream
+-
+
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/quater.cpp
+mathclass.h
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/mathclass.h
+quater.h
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/quater.h
+vector3.h
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/vector3.h
+math_macro.h
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/math_macro.h
+
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/quater.h
+vector3.h
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/vector3.h
+
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/vector3.cpp
+mathclass.h
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/mathclass.h
+iostream
+-
+vector3.h
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/vector3.h
+quater.h
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/quater.h
+math_macro.h
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/math_macro.h
+
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/vector3.h
+iostream
+-
+
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/vector4.cpp
+mathclass.h
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/mathclass.h
+vector4.h
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/vector4.h
+math_macro.h
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/math_macro.h
+
+/home/sangu/Documents/Computer Graphics/PA2_2017_skeleton/math/vector4.h
+

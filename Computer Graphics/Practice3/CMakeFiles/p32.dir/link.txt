@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/p32.dir/practice3_2.cpp.o  -o p32 -rdynamic -lGL -lGLU -lglut 

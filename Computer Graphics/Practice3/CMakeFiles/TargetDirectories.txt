@@ -1,0 +1,8 @@
+/home/sangu/Documents/Computer Graphics/Practice3/CMakeFiles/snake.dir
+/home/sangu/Documents/Computer Graphics/Practice3/CMakeFiles/rebuild_cache.dir
+/home/sangu/Documents/Computer Graphics/Practice3/CMakeFiles/p34.dir
+/home/sangu/Documents/Computer Graphics/Practice3/CMakeFiles/p31.dir
+/home/sangu/Documents/Computer Graphics/Practice3/CMakeFiles/p33.dir
+/home/sangu/Documents/Computer Graphics/Practice3/CMakeFiles/edit_cache.dir
+/home/sangu/Documents/Computer Graphics/Practice3/CMakeFiles/p32.dir
+/home/sangu/Documents/Computer Graphics/Practice3/CMakeFiles/p32s.dir
